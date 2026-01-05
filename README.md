@@ -1,3 +1,1 @@
-# Global
 
-Global JavaScript Projects.
